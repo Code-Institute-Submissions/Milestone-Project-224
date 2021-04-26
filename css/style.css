@@ -1,3 +1,7 @@
 header { margin: 0%;}
 h1 {font-family: 'Antonio', sans-serif;
-    color: aqua;}
+    color: black;}
+.background {
+    background-image: url('../images/background1.jpg');
+    background-size: 100rem;
+    background-repeat: no-repeat;}
