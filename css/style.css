@@ -3,5 +3,5 @@ h1 {font-family: 'Antonio', sans-serif;
     color: black;}
 .background {
     background-image: url('/assets/Images/background11.jpg');
-    background-size: 100rem;
+    background-size: 100%;
     background-repeat: no-repeat;}
