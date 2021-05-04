@@ -20,4 +20,31 @@ p {
 li {font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
 }
+
+footer{
+    height: 50px;
+    background-color: brown;
+    	padding: 1em;
+	text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;}
     
+.Drink-Aware {
+        text-align: left;
+        color: white;
+    }
+    .social-networks{
+    text-align: center;
+    }
+    .social-networks li{
+    display: inline;
+    }
+    
+    .social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: blue;
+    }
