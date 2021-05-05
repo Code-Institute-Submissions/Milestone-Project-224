@@ -48,7 +48,7 @@ body {
 }
 
  .background {
-    background-image: url('/assets/Images/river-flowing-through-trees-mountains-scotland.jpg');
+    background-image: url('assets/Images/river-flowing-through-trees-mountains-scotland.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     }
