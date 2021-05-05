@@ -1,50 +1,95 @@
 header { margin: 0%;}
-h1 {font-family: 'Antonio', sans-serif;
-    color: black;}
-    .body{
+h1 {font-family: Arial, Helvetica, sans-serif;
+    color: black;
+text-align: center;
+border: blue;
+border-width: 1px;
+border-style: dotted;}
+
+body {
         font-family: Arial, Helvetica, sans-serif;
-        color: slategrey;
+        color: gold;
+        text-align: center;
+        text-transform: uppercase;
     }
-.background {
-    background-image: url('/assets/Images/background11.jpg');
-    background-size: 100%;
-    background-repeat: no-repeat;
+#bottle1{
+    height: 50%;
+    width: auto;
 }
+.whisky1 {
+        width: 50%;
+        height: auto;
+      }
+
+@media only screen and (max-width: 600px) {
+    img {width: 65%;
+    height: 65%}
+}
+#menu{
+    font-size: 100%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+
+#menu li{
+    float: right;
+    margin-right: 30px;
+
+  }
+
+#menu a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    background-color: orange;
+    border-bottom: 1px solid #777777;
+}
+
+ .background {
+    background-image: url('/assets/Images/river-flowing-through-trees-mountains-scotland.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    }
 
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
-    color: springgreen;
+    color: gold;
 }
 
 li {font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
+    color: gold;
+    height: auto;
 }
 
 footer{
-    height: 50px;
-    background-color: brown;
-    	padding: 1em;
+    background-color: whitesmoke;
+    padding: 5px;
 	text-align: center;
     width: 100%;
     position: fixed;
     bottom: 0;
-    right: 0;}
+    right: 0;
+    margin-top: 15px;}
     
-.Drink-Aware {
-        text-align: left;
-        color: white;
+    footer a {
+     font-size: 50%;   
     }
+
     .social-networks{
     text-align: center;
-    }
+    padding: 0 5%;
+}
+
     .social-networks li{
     display: inline;
     }
     
     .social-networks i{
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
+    font-size: 200%;
     color: blue;
+    
     }

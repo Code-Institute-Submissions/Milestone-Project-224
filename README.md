@@ -10,12 +10,12 @@ Understand Main purpose of site and learn more about the distillery and products
 
 ### Technologies used
 Languages used
-1. HTML 5 https://html.spec.whatwg.org/multipage/
-2. CSS 3 https://www.w3.org/Style/CSS/Overview.en.html
+1. [HTML 5](https://html.spec.whatwg.org/multipage/)
+2. [CSS 3](https://www.w3.org/Style/CSS/Overview.en.html)
 
 Frameworks, Programs and libaries used
 
-1. Font Awesome https://fontawesome.com/
+1. [Font Awesome](https://fontawesome.com/)
  Font Awesome was used on all pages throughout the website to add icons for social media links.
 
 
