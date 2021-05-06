@@ -12,19 +12,29 @@ body {
         text-align: center;
         text-transform: uppercase;
     }
-#bottle1{
-    height: 50%;
-    width: auto;
-}
-.whisky1 {
+    .arla1{
         width: 50%;
-        height: auto;
+        height: 40%;
+    }
+    .barrel {
+        width: 50%;
+        height: 40%;
+    }
+.whisky1 {
+        width: 10%;
+        height: 20%;
+      }
+
+    .whisky2 {
+        width: 10%;
+        height: 20%;
       }
 
 @media only screen and (max-width: 600px) {
-    img {width: 65%;
-    height: 65%}
+    img {width: 30%;
+    height: 30%}
 }
+
 #menu{
     font-size: 100%;
     list-style-type: none;
@@ -34,8 +44,7 @@ body {
 #menu li{
     float: right;
     margin-right: 30px;
-
-  }
+}
 
 #menu a{
     text-decoration: none;
@@ -66,17 +75,18 @@ li {font-family: Arial, Helvetica, sans-serif;
 }
 
 footer{
-    background-color: whitesmoke;
-    padding: 5px;
+    padding: 1px;
 	text-align: center;
     width: 100%;
     position: fixed;
     bottom: 0;
     right: 0;
-    margin-top: 15px;}
+    margin-top: 1px;}
     
-    footer a {
-     font-size: 50%;   
+    .drink-aware {
+        font-size: large;
+        color: greenyellow;
+        text-transform: capitalize;
     }
 
     .social-networks{

@@ -17,7 +17,8 @@ Frameworks, Programs and libaries used
 
 1. [Font Awesome](https://fontawesome.com/)
  Font Awesome was used on all pages throughout the website to add icons for social media links.
-
+2. [Google Fonts](https://fonts.google.com/) 
+Used this to 
 
 #### Testing
 Code was inputed through The W3C CSS Validation Service and  Markup Validation Service.
