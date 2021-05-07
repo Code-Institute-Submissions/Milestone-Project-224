@@ -11,8 +11,16 @@ Understand Main purpose of site and learn more about the distillery and products
 One issue is that we assume that the person accessing the site is 18+ due to age restrictions. This is a feature that can be implemted for the future when the website is more fully developed.The Drink Aware link is placed in the footer and a drink responsibly message is placed there too.  
 Another feature that can be implemted is a contact us form so you can be aware of events and news.
 
+### Wireframes
 
-### Technologies used
+* Home Page Mobile -(/assets/Wireframes/Mobile Wireframe Home.png)
+* Home Page Desktop -(/assets/Wireframes/Desktop Wireframe Home.png)
+* Products Page Mobile -(/assets/Wireframes/Mobile Wireframe Products.png)
+* Products Page Desktop -(/assets/Wireframes/Desktop Wireframe Products.png)
+* Our Story Page Mobile -(/assets/Wireframes/Mobile Wireframe Our Story.png)
+* Our Story Page Desktop -(/assets/Wireframes/Desktop Wireframe Our Story.png)
+
+## Technologies used
 Languages used
 1. [HTML 5](https://html.spec.whatwg.org/multipage/)
 2. [CSS 3](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -31,6 +39,9 @@ Used to aid responsiveness of the site.
 4. [Gitpod](gitpod.io/) Used Gitpod for version control.
 
 5. [Github](https://github.com/) used to deploy the finished site
+
+6. [Balsamiq](https://balsamiq.com/) Used Balsamiq to create the wireframes.
+
 
 
 #### Testing
