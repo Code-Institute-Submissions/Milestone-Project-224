@@ -12,28 +12,6 @@ body {
         text-align: center;
         text-transform: capitalize;
     }
-    .whisky-glass{
-        width: 50%;
-        height: 40%;
-    }
-    .barrel {
-        width: 50%;
-        height: 40%;
-    }
-.whisky1 {
-        width: 10%;
-        height: 20%;
-      }
-
-    .whisky2 {
-        width: 10%;
-        height: 20%;
-      }
-
-@media only screen and (max-width: 600px) {
-    img {width: 30%;
-    height: 30%}
-}
 
 #menu{
     font-size: 100%;
