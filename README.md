@@ -52,7 +52,7 @@ Used to aid responsiveness of the site.
 * Footer is relative on all pages, but displays as fixed  only on Product Page.
 * Colour scheme is one colour due to Lighthouse report issue "Background and foreground colors do not have a sufficient contrast ratio."
 
-### Screenshots
+#### Screenshots
 
 [Home Page Samsung S20 Ultra](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Home%20Page%20Samsung%20S20%20Ultra.jpg)
 [Our Story Page Samsung S20 Ultra](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Our%20Story%20Samsung%20S20%20Ultra.jpg)
@@ -62,7 +62,9 @@ Used to aid responsiveness of the site.
 [Our Story Page Sony XZ Premium](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Our%20Story%20Sony%20XZ%20Premium.jpeg)
 [Products Page Sony XZ Premium](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Product%20Page%20Sony%20XZ%20Premium.jpeg)
 
-###LightHouse reports
+#### LightHouse reports
+[Lighthouse Report Desktop](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Lighthouse%20Reports/LIGHTHOUSE-DESKTOP-REPORT.JPG)
+[Lighthouse Report Mobile](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Lighthouse%20Reports/LIGHTHOUSE-MOBILE-REPORT.JPG)
 
 ## Deployment
 The project was deployed to GitHub Pages using the following steps...
