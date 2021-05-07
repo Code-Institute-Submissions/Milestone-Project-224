@@ -47,13 +47,22 @@ Used to aid responsiveness of the site.
 * Lighthouse report was created and changes implemented.
 * The website was tested on Google Chrome, Edge and  Firefox using the deployed link.
 * The website was also tested on Samsung Tab S7, Iphone 11 pro, Iphone XR, Sony XZ Premium and Hua Wei Honor 8. 
-Friends and family  tested the deployed link on their phones and provided feedback.
-The site was found to be responsive on all platforms tested.
-
+* Friends and family tested the deployed link on their phones and provided feedback. The site was found to be responsive on all platforms tested.
 * Known Bugs: Main image on home page and Our Story page is too small when viewdata on mobiles.
 * Footer is relative on all pages, but displays as fixed  only on Product Page.
 * Colour scheme is one colour due to Lighthouse report issue "Background and foreground colors do not have a sufficient contrast ratio."
 
+### Screenshots
+
+[Home Page Samsung S20 Ultra](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Home%20Page%20Samsung%20S20%20Ultra.jpg)
+[Our Story Page Samsung S20 Ultra](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Our%20Story%20Samsung%20S20%20Ultra.jpg)
+[Products Page Samsung S20 Ultra](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Product%20Page%20Samsung%20S20%20Ultra.jpg)
+
+[Home Page Sony XZ Premium](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Home%20Page%20Sony%20XZ%20Premium.jpeg)
+[Our Story Page Sony XZ Premium](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Our%20Story%20Sony%20XZ%20Premium.jpeg)
+[Products Page Sony XZ Premium](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Product%20Page%20Sony%20XZ%20Premium.jpeg)
+
+###LightHouse reports
 
 ## Deployment
 The project was deployed to GitHub Pages using the following steps...
