@@ -78,7 +78,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Credits and Acknowledgments 
 1. Footer and menu code were copied from -(https://codeinstitute.net) Love Runnings Project.
-2. All images were downloaded from -(freepik.com). Please see below for licence attribution
+2. All images were downloaded from -(https://www.freepik.com/home). Please see below for licence attribution
  * Closeup shot of two people clinking glasses with alcohol at a toast "designed by Wirestock - Freepik.com"
  * Alcoholic drink in a bottle "designed by 8Photo - Freepik.com"
  * barrels in old winery "designed by Bearfotos - Freepik.com"
