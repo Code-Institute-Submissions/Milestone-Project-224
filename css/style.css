@@ -65,22 +65,22 @@ body {
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
-    color: gold;
+    color: #3200cc;
 }
 
 li {font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
-    color: gold;
+    color:#3200cc;
     height: auto;
 }
 
-footer{
+.footer{
     padding: 1px;
 	text-align: center;
     width: 100%;
     position: relative;
     bottom: 0;
-    right: 0;
+    left: 0;
     margin-top: 1px;
     background-color: whitesmoke;
     z-index: auto;
@@ -88,7 +88,7 @@ footer{
     
     .drink-aware {
         font-size: large;
-        color: red;
+        color:#5c00ff;
         text-transform: capitalize;
     }
 
