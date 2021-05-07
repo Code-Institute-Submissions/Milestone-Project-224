@@ -54,17 +54,16 @@ Used to aid responsiveness of the site.
 
 #### Screenshots
 
-[Home Page Samsung S20 Ultra](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Home%20Page%20Samsung%20S20%20Ultra.jpg)
-[Our Story Page Samsung S20 Ultra](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Our%20Story%20Samsung%20S20%20Ultra.jpg)
-[Products Page Samsung S20 Ultra](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Product%20Page%20Samsung%20S20%20Ultra.jpg)
-
-[Home Page Sony XZ Premium](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Home%20Page%20Sony%20XZ%20Premium.jpeg)
-[Our Story Page Sony XZ Premium](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Our%20Story%20Sony%20XZ%20Premium.jpeg)
-[Products Page Sony XZ Premium](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Product%20Page%20Sony%20XZ%20Premium.jpeg)
+* [Home Page Samsung S20 Ultra](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Home%20Page%20Samsung%20S20%20Ultra.jpg)
+* [Our Story Page Samsung S20 Ultra](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Our%20Story%20Samsung%20S20%20Ultra.jpg)
+* [Products Page Samsung S20 Ultra](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Product%20Page%20Samsung%20S20%20Ultra.jpg)
+* [Home Page Sony XZ Premium](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Home%20Page%20Sony%20XZ%20Premium.jpeg)
+* [Our Story Page Sony XZ Premium](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Our%20Story%20Sony%20XZ%20Premium.jpeg)
+* [Products Page Sony XZ Premium](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Screenshots/Product%20Page%20Sony%20XZ%20Premium.jpeg)
 
 #### LightHouse reports
-[Lighthouse Report Desktop](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Lighthouse%20Reports/LIGHTHOUSE-DESKTOP-REPORT.JPG)
-[Lighthouse Report Mobile](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Lighthouse%20Reports/LIGHTHOUSE-MOBILE-REPORT.JPG)
+* [Lighthouse Report Desktop](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Lighthouse%20Reports/LIGHTHOUSE-DESKTOP-REPORT.JPG)
+* [Lighthouse Report Mobile](https://github.com/NC-CSX/Milestone-Project-1/blob/master/assets/Lighthouse%20Reports/LIGHTHOUSE-MOBILE-REPORT.JPG)
 
 ## Deployment
 The project was deployed to GitHub Pages using the following steps...
@@ -85,4 +84,4 @@ The project was deployed to GitHub Pages using the following steps...
  * barrels in old winery "designed by Bearfotos - Freepik.com"
  * Full liquor bottle "designed by 8Photo - Freepik.com"
 * Bootstrap Code and img tags written by John Driscoll.
-* I would also like to thank my Mentors, Dick Vlaanderen and Chris Quinn for their advice and help. I also wish to thank John Driscoll for his advice and help with Bootstrap. 
+* I would also like to thank my Mentors, Dick Vlaanderen and Chris Quinn for their advice and help. I also wish to thank John Driscoll for his advice and help with Bootstrap.
