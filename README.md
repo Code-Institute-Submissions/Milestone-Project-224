@@ -2,12 +2,15 @@
 
 # Arla Distillery
 
-This is a webiste for a new distillery set in the Speyside region of Scotland. It is desgned to be easy to navigate so that potential customers can learn about the products. Focus is on First Time user.
+This is a webiste for a brand new fictional distillery based in the Speyside region of Scotland. It is desgned to be easy to navigate so that potential customers can learn about the products. Focus is on First Time user.
 
 ## User Experience
 * First Time user
 
-Understand Main purpose of site and learn more about the distillery and products.
+Understand Main purpose of site and learn more about the distillery and products. The site has a basic layout and is easy to navigate, this is so that users can gather the main information quickly.
+One issue is that we assume that the person accessing the site is 18+ due to age restrictions. This is a feature that can be implemted for the future when the website is more fully developed.The Drink Aware link is placed in the footer and a drink responsibly message is placed there too.  
+Another feature that can be implemted is a contact us form so you can be aware of events and news.
+
 
 ### Technologies used
 Languages used
@@ -29,7 +32,6 @@ Used to aid responsiveness of the site.
 
 5. [Github](https://github.com/) used to deploy the finished site
 
-[Screenshot of site](/assets/Images/barrels.jpg)
 
 #### Testing
 * The code was inputed through the W3C CSS Validation Service and  Markup Validation Service and no errors were found. 
@@ -42,6 +44,7 @@ The site was found to be responsive on all platforms tested.
 * Known Bugs: Main image on home page and Our Story page is too small when viewied on mobiles.
 * Footer is relative on all pages, but displays as fixed  only on Product Page.
 * Colour scheme is one colour due to Lighthouse report issue "Background and foreground colors do not have a sufficient contrast ratio."
+
 
 #### Deployment
 The project was deployed to GitHub Pages using the following steps...
