@@ -36,9 +36,9 @@ Used this to import the Antonio Font throughout the site.
 3. [Bootstrap 4.4.1](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 Used to aid responsiveness of the site.
 
-4. [Gitpod](gitpod.io/) Used Gitpod for version control.
+4. [Gitpod](https://www.gitpod.io/) Used Gitpod for version control.
 
-5. [Github](https://github.com/) used to deploy the finished site
+5. [Github](https://github.com/) used to deploy the finished site.
 
 6. [Balsamiq](https://balsamiq.com/) Used Balsamiq to create the wireframes.
 
