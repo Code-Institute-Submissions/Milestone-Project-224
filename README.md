@@ -29,7 +29,7 @@ Used to aid responsiveness of the site.
 
 5. [Github](https://github.com/) used to deploy the finished site
 
-![Screenshot](/assets/Images/barrels.jpg)
+[Screenshot of site](/assets/Images/barrels.jpg)
 
 #### Testing
 * The code was inputed through the W3C CSS Validation Service and  Markup Validation Service and no errors were found. 
