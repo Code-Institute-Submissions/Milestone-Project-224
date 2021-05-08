@@ -84,4 +84,4 @@ The project was deployed to GitHub Pages using the following steps...
  * barrels in old winery "designed by Bearfotos - Freepik.com"
  * Full liquor bottle "designed by 8Photo - Freepik.com"
 * Bootstrap Code and img tags written by John Driscoll.
-* I would also like to thank my Mentors, Dick Vlaanderen and Chris Quinn for their advice and help. I also wish to thank John Driscoll for his advice and help with Bootstrap.
+3. I would also like to thank my Mentors, Dick Vlaanderen and Chris Quinn for their advice and help. I also wish to thank John Driscoll for his advice and help with Bootstrap.
