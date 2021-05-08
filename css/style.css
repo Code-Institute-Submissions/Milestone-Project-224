@@ -13,27 +13,6 @@ body {
         text-transform: capitalize;
     }
 
-#menu{
-    font-size: 100%;
-    list-style-type: none;
-    letter-spacing: 4px;
-}
-
-#menu li{
-    float: right;
-    margin-right: 30px;
-}
-
-#menu a{
-    text-decoration: none;
-    color: inherit;
-}
-
-#menu a:hover{
-    background-color: orange;
-    border-bottom: 1px solid #777777;
-}
-
  .background {
     background-color: rgb(91, 169, 176);
     background-size: contain;
@@ -64,11 +43,7 @@ li {font-family: Arial, Helvetica, sans-serif;
     background-color: whitesmoke;
     z-index: auto;
 }
-    .frepik{
-     padding-left: 5px;
-     font-size: small;   
-    }
-    .drink-aware {
+.drink-aware {
         font-size: large;
         color:#5c00ff;
         text-transform: capitalize;
