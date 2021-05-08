@@ -77,7 +77,7 @@ The project was deployed to GitHub Pages using the following steps...
 * The Link to the project is -(https://nc-csx.github.io/Milestone-Project-1/)
 
 ### Credits and Acknowledgments 
-1. .footer CSS code, .social-networks, .social-networks li and .social-networks i were copied from -(https://codeinstitute.net) Love Runnings Project. The footer html code was also copied from -(https://codeinstitute.net) Love Runnings Project except for the <p> tag and class ="drink-aware" 
+1. .footer CSS code, .social-networks, .social-networks li and .social-networks i were copied from -(https://codeinstitute.net) Love Runnings Project. The footer html code was also copied from -(https://codeinstitute.net) Love Runnings Project except for the p tag and class="drink-aware". 
 2. All images were downloaded from -(https://www.freepik.com/home). Please see below for licence attribution
  * Closeup shot of two people clinking glasses with alcohol at a toast "designed by Wirestock - Freepik.com"
  * Alcoholic drink in a bottle "designed by 8Photo - Freepik.com"
